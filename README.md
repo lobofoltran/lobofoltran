@@ -1,4 +1,4 @@
-### E aí, tudo bem? 👋
+### E aí, tudo bem?
 
 Me chamo Gustavo! Tenho 18 anos, sou estudante de Análise e Desenvolvimento de Sistemas, amante de jogos e sonho em ir para o exterior. Aqui você vai encontrar alguns trabalhos e atividades minhas e até alguns repositórios de testes meus aqui no GitHub.
 
