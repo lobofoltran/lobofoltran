@@ -2,7 +2,7 @@
 
 I'm 18 years old, Brazilian, currently cursing systems analysis and development at Unicesumar, Curitiba, Brazil. For now I'm tempted to work with Web Technology, acquiring knowledge in the area.
 - 💎 I'm currently looking for a job/internship in the area.
-- 🌱 Currently learning Java and starting Flutter and NodeJS.
+- 🌱 Currently learning Java and starting Flutter.
 - 💬 Open to learn about Web Development.
 
 ## **LANGUAGES, FRAMEWORKS, TOOLS & OTHERS**
