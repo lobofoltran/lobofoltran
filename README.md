@@ -1,36 +1,65 @@
-### Analysis and systems development.
+### Hi, I'm Gustavo Lobo. <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="20px" alt="Gustavo Lobo">
 
-- E-mail for contact: gustavoqe.75@gmail.com
-- Instagram: [@lobo.foltran](https://instagram.com/lobo.foltran)
-- Twitter: [@vodkaevolution](https://twitter.com/vodkaevolution)
-- Discord: vodkaevolution#0121
-
-  <a href= "https://www.linkedin.com/in/gustavo-lobo" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+I am 18 years old, Brazilian, currently cursing systems analysis and development at Unicesumar, Curitiba, Brazil. 🇺🇸 For now I'm tempted to work with Web Technology, acquiring knowledge in the area.
+- 💎 I'm currently looking for a job/internship.
+- 🌱 Currently learning Java and starring Flutter and NodeJS.
+- 💬 Open to learn about Programming.
 
 
-##
-<br/>
+## **LANGUAGES, FRAMEWORKS, TOOLS & OTHERS**
+<p align="center">
+  <img alt="HTML" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img alt="CSS" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+  <img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap%204-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"/>
+  <img alt="JavaScript"  src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
+  <img alt="PHP" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
+  <img alt="C" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
+  <img alt="C++" src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/> 
+  <img alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
+  <img alt="C#" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"/>
+  <img alt="SQL Server" src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white">
+  <img alt="MySQL" src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white">
+  <img alt="SQLite" src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white"/>
+  <img alt="Windows" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
+  <img alt="VS Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
+  <img alt="Windows" src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"/>
+  <img alt="Windows" src="https://img.shields.io/badge/apache%20netbeans-1B6AC6?style=for-the-badge&logo=apache%20netbeans%20IDE&logoColor=white"/>
+  <img alt="Windows" src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white"/>
+  <img alt="Windows" src="https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white"/>
+  <img alt="Windows" src="http://img.shields.io/badge/-PHPStorm-181717?style=for-the-badge&logo=phpstorm&logoColor=white"/>
+  <img alt="Windows" src="https://img.shields.io/badge/WebStorm-000000?style=for-the-badge&logo=WebStorm&logoColor=white"/>
+</p>
 
-  <div align="center">
-  <a href="https://github.com/lobofoltran">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lobofoltran&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lobofoltran&layout=compact&langs_count=7&theme=dark"/>
-</div> </a>
-<br/>
+## **GIHUB STATS**
+  <p align = "center">
+    <img src='https://github-readme-stats.vercel.app/api?username=lobofoltran&count_private=true&include_all_commits=true&show_icons=true&theme=gotham&hide_border=true&line_height=27'/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lobofoltran&show_icons=true&hide=php,html,typescript,css,markdown,python&theme=gotham&line_height=27&hide_border=true">
+  </p>
+  <p align = "center">
+    <img src="https://visitor-badge-reloaded.herokuapp.com/badge?page_id=lobofoltran&logo=Github&style=for-the-badge&color=55acb7">
+  </p>
 
- ![visitas](https://visitor-badge.laobi.icu/badge?page_id=lobofoltran)
+## **FEATURED PROJECTS**
 
-##
-Principais linguagens:
+<p align="center">
+    <a href="https://github.com/lobofoltran/aep-2b1">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=lobofoltran&repo=aep-2b1&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&hide_border=true&hide=html"/>
+    </a>
+    <a href="https://github.com/lobofoltran/aep-2b1">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=lobofoltran&repo=da-to-do-list&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&hide_border=true&hide=html"/>
+    </a>
+</p>
 
-  <code><img align="center" alt="" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"></code>
-  <code><img align="center" alt="" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"></code>
-  <code><img align="center" alt="" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg"></code>
-  <code><img align="center" alt="" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"></code>
-  <code><img align="center" alt="" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg"></code>
-  <code><img align="center" alt="" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg"></code>
-  <code><img align="center" alt="" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg"></code>
-  <code><img align="center" alt="" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg"></code>
-  <code><img align="center" alt="" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"></code>
-  <code><img align="center" alt="" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg"></code>
-  <code><img align="center" alt="" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original-wordmark.svg"></code>
+## **REACH ME**
+<p align="center">
+  <a href= "https://www.linkedin.com/in/gustavo-lobo" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"</a>
+  <a href= "mailto:gustavoqe.75@gmail.com" target="_blank"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href= "https://www.instagram.com/lobo.foltran" target="_blank"><img alt="Instagram"  src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+  <a href= "https://www.twitter.com/vodkaevolution" target="_blank"><img alt="Twitter"  src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
+  <a href= "https://www.discord.com/vodkaevolution#0121" target="_blank"><img alt="Discord" src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"/></a>
+</p>
+
+  
+     
+
+
