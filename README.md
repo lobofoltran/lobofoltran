@@ -1,10 +1,9 @@
 ### Hi, I'm Gustavo Lobo. <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="20px" alt="Gustavo Lobo">
 
-I am 18 years old, Brazilian, currently cursing systems analysis and development at Unicesumar, Curitiba, Brazil. 🇺🇸 For now I'm tempted to work with Web Technology, acquiring knowledge in the area.
+I'm 18 years old, Brazilian, currently cursing systems analysis and development at Unicesumar, Curitiba, Brazil. For now I'm tempted to work with Web Technology, acquiring knowledge in the area.
 - 💎 I'm currently looking for a job/internship.
 - 🌱 Currently learning Java and starring Flutter and NodeJS.
 - 💬 Open to learn about Programming.
-
 
 ## **LANGUAGES, FRAMEWORKS, TOOLS & OTHERS**
 <p align="center">
