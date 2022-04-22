@@ -1,8 +1,8 @@
 ### Hi, I'm Gustavo Lobo. <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="20px" alt="Gustavo Lobo">
 
 I'm 18 years old, Brazilian, currently cursing systems analysis and development at Unicesumar, Curitiba, Brazil. For now I'm tempted to work with Web Technology, acquiring knowledge in the area.
-- 💎 I'm currently looking for a job/internship in the area.
-- 🌱 Currently learning Java and starting Flutter and Phyton.
+- 💎 I'm currently an TI Intern at WHB Automotive.
+- 🌱 Currently learning Java and PHP Laravel.
 - 💬 Open to learn about Web Development.
 
 ## **LANGUAGES, FRAMEWORKS, TOOLS & OTHERS**
@@ -54,7 +54,4 @@ I'm 18 years old, Brazilian, currently cursing systems analysis and development 
   <a href= "https://www.linkedin.com/in/gustavo-lobo" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"</a>
   <a href= "https://api.whatsapp.com/send?phone=5541996337010&text=Hi" target="_blank"><img alt="Discord" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
   <a href= "mailto:gustavoqe.75@gmail.com" target="_blank"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href= "https://www.instagram.com/lobo.foltran" target="_blank"><img alt="Instagram"  src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
-  <a href= "https://www.twitter.com/vodkaevolution" target="_blank"><img alt="Twitter"  src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
-  <a href= "https://www.discord.com/vodkaevolution#0121" target="_blank"><img alt="Discord" src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"/></a>
 </p>
