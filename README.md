@@ -41,11 +41,11 @@ I'm 18 years old, Brazilian, currently cursing systems analysis and development 
 ## **FEATURED PROJECTS**
 
 <p align="center">
-    <a href="https://github.com/lobofoltran/aep-2b1">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=lobofoltran&repo=aep-2b1&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&hide_border=true&hide=html"/>
+   <a href="https://github.com/lobofoltran/backtrack-studio">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=lobofoltran&repo=backtrack-studio&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&hide_border=true&hide=html"/>
     </a>
-    <a href="https://github.com/lobofoltran/aep-2b1">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=lobofoltran&repo=da-to-do-list&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&hide_border=true&hide=html"/>
+    <a href="https://github.com/lobofoltran/consumo-e-producao-responsaveis-ods">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=lobofoltran&repo=consumo-e-producao-responsaveis-ods&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&hide_border=true&hide=html"/>
     </a>
 </p>
 
