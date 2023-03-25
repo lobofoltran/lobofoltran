@@ -1,19 +1,20 @@
 ### Hi, I'm Gustavo Lobo.
-I'm 19 years old, Brazilian, currently cursing systems analysis and development at Unicesumar, Curitiba, Brazil. For now I'm tempted to work with Web Technology, acquiring knowledge in the area.
-- 💎 I'm currently an TI Intern at WHB Automotive.
-- 🌱 Currently learning PHP Laravel and Flutter.
+
+I'm a Full Stack Developer, 19 years old, Brazilian, currently finishing my systems analysis and development course at Unicesumar, Curitiba, Brazil.
+
+- 💎 I'm currently an Systems Analyst at WHB Automotive.
+- 🌱 Currently learning Redis, Linux, Docker, AWS and Cloud.
 - 💬 Open to learn about Web Development.
 
 ## **LANGUAGES, FRAMEWORKS, TOOLS & OTHERS**
 <p align="center">
   <img alt="PHP" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
-  <img alt="JavaScript"  src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
-  <img alt="Twig" src="https://img.shields.io/badge/Twig-%236DB33F?style=for-the-badge&logo=symfony&logoColor=white"/>
-  <img alt="CSS" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+  <img alt="Laravel" src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white"/>
+  <img alt="Livewire" src="https://img.shields.io/badge/livewire-4e56a6?style=for-the-badge&logo=livewire&logoColor=white"/>
+  <img alt="AlpineJS" src="https://img.shields.io/badge/Alpine%20JS-8BC0D0?style=for-the-badge&logo=alpinedotjs&logoColor=black"/>
+  <img alt="Tailwind" src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
   <img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap%20-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"/>
-  <img alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
   <img alt="MySQL" src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white">
-  <img alt="SQLite" src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white"/>
   <img alt="SQL Server" src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white">
 </p>
 
@@ -22,18 +23,21 @@ I'm 19 years old, Brazilian, currently cursing systems analysis and development 
     <img src='https://github-readme-stats.vercel.app/api?username=lobofoltran&count_private=true&include_all_commits=true&show_icons=true&theme=gotham&hide_border=true&line_height=27'/>
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lobofoltran&show_icons=true&hide=php,html,typescript,css,markdown,python&theme=gotham&line_height=27&hide_border=true">
   </p>
-  <p align = "center">
-    <img src="https://visitor-badge-reloaded.herokuapp.com/badge?page_id=lobofoltran&logo=Github&style=for-the-badge&color=55acb7">
-  </p>
 
 ## **FEATURED PROJECTS**
 
 <p align="center">
-   <a href="https://github.com/lobofoltran/backtrack-studio">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=lobofoltran&repo=backtrack-studio&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&hide_border=true&hide=html"/>
+   <a href="https://github.com/projeto-lgpd/jogo-da-velha-online-laravel" target="_blank">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=projeto-lgpd&repo=jogo-da-velha-online-laravel&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&hide_border=true&hide=html"/>
     </a>
-    <a href="https://github.com/lobofoltran/consumo-e-producao-responsaveis-ods">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=lobofoltran&repo=consumo-e-producao-responsaveis-ods&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&hide_border=true&hide=html"/>
+   <a href="https://github.com/projeto-lgpd/api-laravel" target="_blank">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=projeto-lgpd&repo=api-laravel&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&hide_border=true&hide=html"/>
+    </a>
+     <a href="https://github.com/projeto-lgpd/dashboard-laravel" target="_blank">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=projeto-lgpd&repo=dashboard-laravel&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&hide_border=true&hide=html"/>
+    </a>
+   <a href="https://github.com/projeto-lgpd/mobile-flutter" target="_blank">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=projeto-lgpd&repo=mobile-flutter&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&hide_border=true&hide=html"/>
     </a>
 </p>
 
