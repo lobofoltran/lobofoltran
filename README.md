@@ -1,9 +1,9 @@
 ### Hi, I'm Gustavo Lobo.
 
-I'm a Full Stack Developer, 19 years old, Brazilian, currently finishing my systems analysis and development course at Unicesumar, Curitiba, Brazil.
+I'm a Full Stack Developer, 20 years old, Brazilian, currently finishing my systems analysis and development course at Unicesumar, Curitiba, Brazil.
 
-- 💎 I'm currently an Systems Analyst at WHB Automotive.
-- 🌱 Currently learning Redis, Linux, Docker, AWS and Cloud.
+- 💎 I'm currently an Systems Analyst I at WHB Automotive.
+- 🌱 Currently learning Docker, AWS and Cloud.
 - 💬 Open to learn about Web Development.
 
 ## **LANGUAGES, FRAMEWORKS, TOOLS & OTHERS**
