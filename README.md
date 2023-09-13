@@ -19,7 +19,7 @@ Olá! Sou Gustavo Lobo, um apaixonado Desenvolvedor Full Stack de 20 anos do Bra
 
 ## Projetos Destacados
 
-- **Nexx (Sistema de Automação Comercial SaaS)**
+- **[Nexx](https://github.com/lobofoltran/nexx) (Sistema de Automação Comercial SaaS)**
   - Descrição: Um sistema desenvolvido como trabalho de conclusão de curso.
   - Tecnologias utilizadas: PHP, Laravel, Livewire, Alpine JS e FilamentPHP.
   - Conquistas/Contribuições:
