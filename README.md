@@ -14,7 +14,7 @@ Olá! Sou Gustavo Lobo, um apaixonado Desenvolvedor Full Stack de 20 anos do Bra
     - JavaScript e Node.js
     - Angular, TypeScript e Material UI
     - Bootstrap CSS
-    - Flutter
+    - Flutter e Lumen
     - Bancos de dados MySQL e SQL Server.
 
 ## Projetos Destacados
