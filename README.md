@@ -18,8 +18,8 @@ Olá! Sou Gustavo Lobo, um Desenvolvedor Full Stack apaixonado por tecnologia e 
 
 ## Educação
 
-- Curso Superior em Tecnologia - <b>Análise e Desenvolvimento de Sistemas</b> - Unicesumar, Curitiba (2021 - 2024).
-- Pós Graduação Lato Sensu - <b>Data Science</b> - Tuiuti - UTP, Curitiba (2024 - 2025).
+- Curso Superior de Tecnologia em <b>Análise e Desenvolvimento de Sistemas</b> - Unicesumar, Curitiba (2021 - 2024).
+- Pós Graduação Lato Sensu em <b>Data Science</b> - Tuiuti - UTP, Curitiba (2024 - 2025).
 
 ## Portfólio
 
