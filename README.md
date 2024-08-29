@@ -16,15 +16,10 @@ Olá! Sou Gustavo Lobo, um Desenvolvedor Full Stack apaixonado por tecnologia e 
 - <b>Tecnologies, Tools, Libraries & Frameworks:</b> Next.js, React, Angular, Flutter, Laravel, Flask, Vue.js, Alpine.js, Livewire, Electron.js, Puppeteer, Node.js, Tailwind CSS, Material UI, ShadcnUI, Bootstrap CSS, etc.
 - <b>Databases:</b> PostgreSQL, MySQL, SQL Server.
 
-## Interesses Atuais
-
-Estou sempre em busca de novos desafios e oportunidades de aprendizado. Atualmente, estou focado em:
-- Expansão do meu conhecimento em Data Science.
-
 ## Educação
 
-- <b>Análise e Desenvolvimento de Sistemas</b> - Unicesumar, Curitiba (2021 - 2024).
-- Pós Graduação em <b>Data Science</b> - Tuiuti - UTP, Curitiba (2024 - 2025).
+- Curso Superior em Tecnologia - <b>Análise e Desenvolvimento de Sistemas</b> - Unicesumar, Curitiba (2021 - 2024).
+- Pós Graduação Lato Sensu - <b>Data Science</b> - Tuiuti - UTP, Curitiba (2024 - 2025).
 
 ## Portfólio
 
