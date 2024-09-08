@@ -17,7 +17,7 @@ Hello! I’m Gustavo Lobo, a Full Stack Developer passionate about technology an
 - <b>Tecnologies, Tools, Libraries & Frameworks:</b> Next.js, React, Angular, Flutter, Laravel, Flask, Vue.js, Alpine.js, Livewire, Electron.js, Puppeteer, Node.js, Tailwind CSS, Material UI, ShadcnUI, Bootstrap CSS, etc.
 - <b>Databases:</b> PostgreSQL, MySQL, SQL Server.
 
-## Educação
+## Education
 
 - Postgraduate Diploma in <b>Data Science</b> - Tuiuti University of Paraná - UTP, Curitiba (2024 - 2025).
 - Associate Degree in <b>Systems Analysis and Development</b> - Unicesumar, Curitiba (2021 - 2024).
