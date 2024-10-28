@@ -7,7 +7,7 @@ Hello! I’m Gustavo Lobo, a Full Stack Developer passionate about technology an
 
 ## Technical Skills
 
-### ERP & Integrações
+### ERP & Integrations
 
 - <b>TOTVS Ecosystem:</b> Advanced experience in customizations, integrations, and developing robust solutions with <b>ADVPL</b>, <b>TLPP</b> and <b>REST Webservice</b>. Deep knowledge of Protheus modules including <b>Personnel Management (HR)</b>, <b>Time Management</b>, <b>Purchasing</b>, <b>Accounting</b>, <b>Fiscal</b>, <b>Financial</b>, <b>Contract Management</b>, <b>Billing</b> and others. Expertise in creating custom routines and automating processes via web services, optimizing workflows and increasing operational efficiency, along with the daily challenge of frequent data analysis.
 
