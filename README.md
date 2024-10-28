@@ -14,7 +14,7 @@ Hello! I’m Gustavo Lobo, a Full Stack Developer passionate about technology an
 ### Software Development
 
 - <b>Languages:</b> JavaScript, TypeScript, Python, Java, PHP, Dart, C++, ADVPL, TLPP.
-- <b>Tecnologies, Tools, Libraries & Frameworks:</b> Next.js, React, Angular, Flutter, Laravel, Flask, Vue.js, Alpine.js, Livewire, Electron.js, Puppeteer, Node.js, Tailwind CSS, Material UI, ShadcnUI, Bootstrap CSS, etc.
+- <b>Tecnologies, Tools, Libraries & Frameworks:</b> Next.js, React, Angular, Flutter, Laravel, Vue.js, Alpine.js, Livewire, Electron.js, Puppeteer, Node.js, Tailwind CSS, Material UI, ShadcnUI, Bootstrap CSS, etc.
 - <b>Databases:</b> PostgreSQL, MySQL, SQL Server.
 
 ## Education
