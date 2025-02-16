@@ -1,33 +1,41 @@
-# 
+# Gustavo Lobo
 
-  <a href= "https://www.linkedin.com/in/gustavo-lobo" target="__blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href= "mailto:gustavoqe.75@gmail.com" target="__blank"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gustavo-lobo)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gustavoqe.75@gmail.com)
 
-Hello! I’m Gustavo Lobo, a Full Stack Developer passionate about technology and innovation, 21 years old, from Curitiba, Brazil. I have experience with a wide range of technologies and frameworks, and I have a deep interest in continuously learning and growing in software development and data science.
+Hello! I’m **Gustavo Lobo**, a **Software Developer** passionate about **technology, innovation, and problem-solving**. Currently working in **Research and Development (R&D)**, I specialize in **ERP integrations, full-stack development, and data engineering**. I am always eager to **learn, adapt, and push technological boundaries**.
 
 ## Technical Skills
 
-### ERP & Integrations
-
-- <b>TOTVS Ecosystem:</b> Advanced experience in customizations, integrations, and developing robust solutions with <b>ADVPL</b>, <b>TLPP</b> and <b>REST Webservice</b>. Deep knowledge of Protheus modules including <b>Personnel Management (HR)</b>, <b>Time Management</b>, <b>Purchasing</b>, <b>Accounting</b>, <b>Fiscal</b>, <b>Financial</b>, <b>Contract Management</b>, <b>Billing</b> and others. Expertise in creating custom routines and automating processes via web services, optimizing workflows and increasing operational efficiency, along with the daily challenge of frequent data analysis.
-
 ### Software Development
 
-- <b>Languages:</b> JavaScript, TypeScript, Python, Java, PHP, Dart, C++, ADVPL, TLPP.
-- <b>Tecnologies, Tools, Libraries & Frameworks:</b> Next.js, React, Angular, Flutter, Laravel, Vue.js, Alpine.js, Livewire, Electron.js, Puppeteer, Node.js, Tailwind CSS, Material UI, ShadcnUI, Bootstrap CSS, etc.
-- <b>Databases:</b> PostgreSQL, MySQL, SQL Server.
+- **Languages:** JavaScript, TypeScript, Python, Go, Java, PHP, Dart, C++, ADVPL, TLPP.
+- **Technologies & Frameworks:** Next.js, Django, React, Angular, Flutter, Laravel, Vue.js, Alpine.js, Livewire, Electron.js, Puppeteer, Node.js, Tailwind CSS, Material UI, ShadcnUI, Bootstrap CSS.
+- **Databases:** PostgreSQL, MySQL, SQL Server.
+- **Cloud & DevOps:** Docker, AWS (basic knowledge), CI/CD pipelines, and containerized environments.
+
+### ERP & Integrations
+
+- **TOTVS Ecosystem:** Advanced experience in **customization, automation, and API integrations** within the **Protheus ERP**.
+- **Technologies:** **ADVPL**, **TLPP**, and **REST Webservices**.
+- **Modules Expertise:** **HR Management, Time Management, Purchasing, Accounting, Fiscal, Financial, Contract Management, Billing**, among others.
+- **Process Optimization:** Creating **custom routines and data automation solutions**, enhancing **operational efficiency** and **data-driven decision-making**.
+
+### Data Science & AI
+
+- **Data Analysis & Processing:** Pandas, NumPy, Matplotlib, Seaborn.
+- **Machine Learning:** Scikit-learn, TensorFlow (basic knowledge).
+- **Big Data & BI:** SQL optimization, ETL, and dashboard development.
 
 ## Education
 
-- Postgraduate Diploma in <b>Data Science</b> - Tuiuti University of Paraná - UTP, Curitiba (2024 - 2025).
-- Associate Degree in <b>Systems Analysis and Development</b> - Unicesumar, Curitiba (2021 - 2024).
+- **Postgraduate Diploma in Data Science** - Tuiuti University of Paraná - UTP, Curitiba *(2024 - 2025)*.
+- **Associate Degree in Systems Analysis and Development** - Unicesumar, Curitiba *(2021 - 2024)*.
 
 ## Portfolio
 
-Check out my projects and previous work on my [personal site](https://lobofoltran.com).
+Check out my **projects, case studies, and professional journey** on my **[personal website](https://lobofoltran.com)**.
 
 ## Contact
 
-Feel free to reach out to me via [LinkedIn](https://www.linkedin.com/in/gustavo-lobo) or email: gustavoqe.75@gmail.com.
-
-
+Feel free to reach out to me via **[LinkedIn](https://www.linkedin.com/in/gustavo-lobo)** or email: **gustavoqe.75@gmail.com**.
