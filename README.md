@@ -11,7 +11,7 @@ Hello! I’m **Gustavo Lobo**, a **Software Developer** passionate about **techn
 
 - **Languages:** JavaScript, TypeScript, Python, Go, Java, PHP, Dart, C++, ADVPL, TLPP.
 - **Technologies & Frameworks:** Next.js, Django, React, Angular, Flutter, Laravel, Vue.js, Alpine.js, Livewire, Electron.js, Puppeteer, Node.js, Tailwind CSS, Material UI, ShadcnUI, Bootstrap CSS.
-- **Databases:** PostgreSQL, MySQL, SQL Server.
+- **Databases:** PostgreSQL, MySQL, SQL Server, MongoDB.
 - **Cloud & DevOps:** Docker, AWS (basic knowledge), CI/CD pipelines, and containerized environments.
 
 ### ERP & Integrations
