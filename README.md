@@ -1,1 +1,1 @@
-Versatile Full Stack Developer with a strategic mindset for products, data, and business. Focused on solving real-world challenges through impactful deliveries, high performance, and clean architecture.
+Versatile Full Stack Developer with a strategic mindset for products, data, and business. Focused on solving real-world challenges through impactful deliveries, high performance and clean architecture.
