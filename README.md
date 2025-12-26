@@ -1,1 +1,4 @@
-Versatile Full Stack Developer with a strategic mindset for products, data, and business. Focused on solving real-world challenges through impactful deliveries, high performance and clean architecture.
+Software Engineer focused on backend and distributed systems, building reliable and scalable systems.
+
+**Website:** https://lobofoltran.dev  
+**LinkedIn:** https://www.linkedin.com/in/gustavo-lobo  
